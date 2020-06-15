@@ -1,1 +1,1 @@
-Automação de uma sala comcerial utilizanod arduino
+Automação de uma sala comercial utilizando arduino
