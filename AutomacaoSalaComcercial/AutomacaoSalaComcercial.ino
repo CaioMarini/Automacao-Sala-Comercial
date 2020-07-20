@@ -2,9 +2,9 @@
 
 //Manual e led de fora automatico funcionando
 
-//Sites Usados
 //
-//LDR: https://blogmasterwalkershop.com.br/arduino/como-usar-com-arduino-fotoresistor-sensor-ldr-5mm/
+//
+//
 //
 //
 // número do pins dos botoes das salas
